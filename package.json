@@ -1,0 +1,11 @@
+{
+  "name": "@head/query",
+  "version": "0.0.1",
+  "description": "@head/query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hbrls <shuaizhexu@gmail.com> (https://lisite.de)",
+  "license": "MIT"
+}
